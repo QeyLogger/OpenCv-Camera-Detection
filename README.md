@@ -6,6 +6,7 @@ To use this python code, you will need to install some modules :
 Numpy : pip install numpy
 
 OpenCv : https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv # Make sure to check whether you have have 32 or 64 bit Os.
+if that doesn't work ^ install the official executable : https://opencv.org/releases.html ( Release 2.4.13.6 )
 
 Math ( Should be preinstalled ) if not simply : pip install Math.
 
